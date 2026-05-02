@@ -9,7 +9,6 @@ from langchain_core.prompts import ChatPromptTemplate
 
 from loaders import *
 
-# OPENAI_API_KEY = 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
 
 TIPOS_ARQUIVOS_VALIDOS = [
     'Site', 'Youtube', 'Pdf', 'Csv', 'Txt'
